@@ -1,0 +1,11 @@
+[Register]
+0=Tecent
+1=Github
+2=Gitee
+
+[Tecent]
+BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
+ManualDownloadUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/
+
+[Github]
+BasicUrl=https://raw.githubusercontent.com/Zero-Fanker/Revenge-Now/master/
