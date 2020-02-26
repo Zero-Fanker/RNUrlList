@@ -1,9 +1,9 @@
 [Register]
-0=Tecent
+0=Tencent
 1=Github
 2=Gitee
 
-[Tecent]
+[Tencent]
 BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
 ManualDownloadUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/
 
