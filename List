@@ -6,6 +6,8 @@
 [Tencent]
 BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
 ManualDownloadUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/
+Location=China
 
 [Github]
 BasicUrl=https://raw.githubusercontent.com/Zero-Fanker/Revenge-Now/master/
+Location=US/Europe
