@@ -1,7 +1,7 @@
 [Register]
-0=Tencent
-1=Github
-2=RN_shuiping
+0=RN_shuiping
+1=Tencent
+2=Github
 
 [Tencent]
 BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
