@@ -1,7 +1,8 @@
 [Register]
-0=RN_shuiping
-1=Tencent
-2=Github
+0=RN_update
+1=RN_shuiping
+2=Tencent
+3=Github
 
 [Tencent]
 BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
@@ -17,5 +18,11 @@ Location=US/Europe
 [RN_shuiping]
 BasicUrl=http://shuiping233.f3322.net:51080/Revenge-Now/
 ManualDownloadUrl=http://shuiping233.f3322.net:50080/Revenge-Now/manualdownload
+WhatsNewUrl=https://home.revengenow.top/#/update/
+Location=China
+
+[RN_update]
+BasicUrl=http://update.revengenow.top:51080/Revenge-Now/
+ManualDownloadUrl=http://update.revengenow.top:50080/Revenge-Now/manualdownload
 WhatsNewUrl=https://home.revengenow.top/#/update/
 Location=China
