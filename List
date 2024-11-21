@@ -1,7 +1,8 @@
 [Register]
-0=RN_handama
-1=Github
-2=Tencent
+0=RN_update
+1=RN_handama
+2=Github
+3=Tencent
 
 [Tencent]
 BasicUrl=https://zero-fanker.coding.net/p/Revenge-Now/d/Revenge-Now/git/raw/master/
