@@ -1,4 +1,5 @@
 [Register]
+-1=CNB
 0=RN_update
 1=RN_handama
 2=Github
@@ -26,3 +27,9 @@ BasicUrl=http://update.revengenow.top:51080/Revenge-Now/
 ManualDownloadUrl=http://update.revengenow.top:50080/Revenge-Now/manualdownload
 WhatsNewUrl=https://home.revengenow.top/#/update/
 Location=China
+
+[CNB]
+BasicUrl=https://cnb.cool/revengenowstudio/Revenge-Now/-/git/raw/master/
+WhatsNewUrl=https://home.revengenow.top/#/update/
+Location=China
+
