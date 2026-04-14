@@ -1,6 +1,5 @@
 [Register]
--1=CNB
-0=RN_update
+0=CNB
 1=RN_handama
 2=Github
 3=Tencent
@@ -19,12 +18,6 @@ Location=US/Europe
 [RN_handama]
 BasicUrl=http://rn.hanfangxu.site/revenge-now/
 ManualDownloadUrl=http://rn.hanfangxu.site/revenge-now/manualdownload
-WhatsNewUrl=https://home.revengenow.top/#/update/
-Location=China
-
-[RN_update]
-BasicUrl=http://update.revengenow.top:51080/Revenge-Now/
-ManualDownloadUrl=http://update.revengenow.top:50080/Revenge-Now/manualdownload
 WhatsNewUrl=https://home.revengenow.top/#/update/
 Location=China
 
